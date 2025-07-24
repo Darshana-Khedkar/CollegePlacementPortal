@@ -1,1 +1,1 @@
-# CollagePlacementPortal
+# CollegePlacementPortal
